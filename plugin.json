@@ -1,0 +1,4 @@
+{
+    "executable" : "redis.sh",
+    "description" : "redis key-value store stats"
+}
